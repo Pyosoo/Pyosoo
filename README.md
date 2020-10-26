@@ -9,5 +9,3 @@
 - 농구 기록지 안드로이드 어플리케이션 (https://github.com/Pyosoo/BRSsystem) (java,android,google firebase)
 - 유아 구구단 학습 반응형 사이트 (https://pyosoo.github.io/ggd_webapp) (javascript, html, css, react.js, redux)
 - 내 주위 공사중 지하철역 (https://pyosoo.github.io/under_construction) (javascript, react, redux, html, css)
-- 컴투스 3x3 프리미어리그 사이트 리메이크 (https://pyosoo.github.io/react_study/) (javascript, html, css, react.js)
-- 개인작가의 그림 전시를 위한 사이트(데모) (https://github.com/Pyosoo/InternetEx) (javascript, html, css, react.js)
